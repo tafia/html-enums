@@ -1,0 +1,10 @@
+[package]
+name = "html-enums"
+version = "0.1.0"
+authors = ["Johann Tuffe"]
+description = "A html elements and attributes into rust enums converter"
+
+[dependencies]
+
+[dev-dependencies]
+reqwest = "0.8.2"
